@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,KACE,+BACF,CAEA,qCACE,eACF,CAEA,WACE,iBACF","file":"main.f616d416.chunk.css","sourcesContent":["body {\n  font-family: 'Nunito', sans-serif;\n}\n\n.site-layout .site-layout-background {\n  background: #fff;\n}\n\n.container {\n  padding: 20px 15px;\n}\n"]}
